@@ -65,6 +65,8 @@ module.exports = {
 
     // 9c28f3f69089fcf2c880e0e4cfee1bf28317e426
 
+    // https://gist.github.com/lipengzhou/b92f80142afa37aea397da47366bd872
+
     // 注册插件
     plugins: [
         '~/plugins/request.js',
